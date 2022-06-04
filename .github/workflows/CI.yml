@@ -14,7 +14,7 @@ on:
 
 
 env:
-  src_git: https://github.com/minax007/rt-n56u/tree/30d180aecb1331397164aaad9ea432d86216107e 
+  src_git: https://github.com/minax007/rt-n56u.git
   build_dir: /opt/rt-n56u  
   images_dir: /opt/images
   ENABLED_CFG: |
